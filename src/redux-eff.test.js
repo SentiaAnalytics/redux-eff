@@ -1,4 +1,3 @@
-//@flow
 import test from 'tape'
 import sinon from 'sinon'
 import {createStore} from 'redux'

@@ -1,5 +1,3 @@
-//@flow
-
 import reduxEff from '../'
 
 import * as Redux from 'redux'

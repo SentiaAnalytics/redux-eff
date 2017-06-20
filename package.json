@@ -1,6 +1,6 @@
 {
-  "name": "redux-eff",
-  "version": "1.0.0",
+  "name": "sentia/redux-eff",
+  "version": "1.0.1",
   "main": "src/redux-eff",
   "license": "MIT",
   "scripts": {
